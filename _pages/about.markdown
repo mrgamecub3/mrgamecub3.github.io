@@ -10,6 +10,7 @@ permalink: /about/
 <!--- hey so mgc whenever you want to add a link, either do the <a> tag, or do this cool thing where you put links at the bottom formatted like [hiddentag]: <link> and in the body you put [Display name][hiddentag] here's an example: -->
 
 [Link to server][examplehiddentag] 
+
 [Link to YouTube Channel][youtube]
 
 [Design][mjt] from [Alex Carpenter][ac]
