@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: About
 permalink: /about/
 ---
 <insert stuff about you, mgc>
@@ -9,12 +9,13 @@ permalink: /about/
 
 <!--- hey so mgc whenever you want to add a link, either do the <a> tag, or do this cool thing where you put links at the bottom formatted like [hiddentag]: <link> and in the body you put [Display name][hiddentag] here's an example: -->
 
-link: [Link to server][examplehiddentag] (this is for mgc so he can learn how to use markdown)
-
+[Link to server][examplehiddentag] 
+[Link to YouTube Channel][youtube]
 
 [Design][mjt] from [Alex Carpenter][ac]
 
 [ac]: https://github.com/alexcarpenter
 [mjt]: https://github.com/alexcarpenter/material-jekyll-theme
 [examplehiddentag]: https://discord.gg/yK3tXpR
+[youtube]: https://www.youtube.com/channel/UCcXJcV1AQo7N8D_PCdjdofA
 <!-- you can keep the hiddentags and links at the bottom so they don't clutter -->
