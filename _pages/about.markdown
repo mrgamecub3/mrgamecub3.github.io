@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About (example, edit this for accessibility)
+title: About 
 permalink: /about/
 ---
 <insert stuff about you, mgc>
