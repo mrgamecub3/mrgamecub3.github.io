@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Blue Theme
+   ========================================================================== */
+
+.t-blue {
+
+  .c-navigation,
+  .c-header {
+    background: $c__maroon;
+  }
+
+  .c-article__main a:not(.c-btn) {
+    color: $c__maroon;
+  }
+
+  .c-footer a {
+    color: $c__maroon;
+  }
+}
