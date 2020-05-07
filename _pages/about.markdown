@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<insert stuff about you, mgc>
+Here's some links that will take you to whereever you want. Btw thanks to Mi460 for helping me build this website:)
 
 
 
