@@ -2,14 +2,14 @@
 layout: page
 title: MrGameCub3
 ---
-Hey!
+Hello there
 
-## Next
+## About Me
 
-Edit2
+I'm just a random guy on the internet like you.
 
-### Third
+### What I do 
 
-> (Use this for cool things like this, but sadly can't be seen on such a cool basic webpage)
+> Yea I make bots. That's fun. Join my server to learn more.
 
 markdown is useful. test/example crap
