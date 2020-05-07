@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Here's some links that will take you to whereever you want. Btw thanks to Mi460 for helping me build this website:)
+Here's some links that will take you to whereever you want. Btw thanks to Mi460 for helping me build this website :)
 
 
 
