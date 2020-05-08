@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Here's some links that will take you to whereever you want. Btw thanks to Mi460 for helping me build this website :)
+Here's some links that will take you to whereever you want. Btw thanks to [Mi460][mi460] for helping me build this website :)
 
 
 
@@ -15,6 +15,7 @@ Here's some links that will take you to whereever you want. Btw thanks to Mi460 
 
 [Design][mjt] from [Alex Carpenter][ac]
 
+[mi460]: https://mi460.dev
 [ac]: https://github.com/alexcarpenter
 [mjt]: https://github.com/alexcarpenter/material-jekyll-theme
 [discord]: /discord
