@@ -13,6 +13,8 @@ Here's some links that will take you to whereever you want. Btw thanks to [Mi460
 
 [Link to YouTube Channel][youtube]
 
+[Invite my Moderation Bot!][modbot]
+
 [Design][mjt] from [Alex Carpenter][ac]
 
 [mi460]: https://mi460.dev
@@ -20,4 +22,5 @@ Here's some links that will take you to whereever you want. Btw thanks to [Mi460
 [mjt]: https://github.com/alexcarpenter/material-jekyll-theme
 [discord]: /discord
 [youtube]: /youtube
+[modbot]: https://discordapp.com/oauth2/authorize?&client_id=708362362520076289&scope=bot
 <!-- you can keep the hiddentags and links at the bottom so they don't clutter i'm updating some crap for you lol 5/7/20 9:00PM-->
