@@ -2,6 +2,8 @@
 layout: page
 title: MrGameCub3
 ---
+<a href="/discord"><img src="https://discordapp.com/api/guilds/707607457731444766/embed.png"></a>
+
 Hello there
 
 ## About Me

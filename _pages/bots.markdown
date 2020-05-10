@@ -3,6 +3,8 @@ layout: page
 title: Discord Bots!
 permalink: /bots/
 ---
+<a href="/discord"><img src="https://discordapp.com/api/guilds/707607457731444766/widget.png?style=banner2" data-url="https://discordapp.com/api/guilds/707607457731444766/widget.png?style=banner2" class="bbImage " style=""></a>
+
 [MGC-Official Moderation Bot with Mi460][bot1link]
 
 [MGC-Official Moderation Bot with Botghost.com][bot2link]

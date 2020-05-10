@@ -5,11 +5,13 @@ permalink: /about/
 ---
 Here's some links that will take you to whereever you want. Btw thanks to [Mi460][mi460] for helping me build this website :)
 
-
+<a href="/discord"><img src="https://discordapp.com/api/guilds/707607457731444766/embed.png"></a>
 
 <!--- hey so mgc whenever you want to add a link, either do the <a> tag, or do this cool thing where you put links at the bottom formatted like [hiddentag]: <link> and in the body you put [Display name][hiddentag] here's an example: -->
 
 [Link to my discord server][discord]
+
+<a href="/discord"><img src="https://discordapp.com/api/guilds/707607457731444766/widget.png?style=banner2" data-url="https://discordapp.com/api/guilds/707607457731444766/widget.png?style=banner2" class="bbImage " style=""></a>
 
 [Link to YouTube Channel][youtube]
 
