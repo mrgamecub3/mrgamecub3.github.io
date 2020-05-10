@@ -15,8 +15,6 @@ Here's some links that will take you to whereever you want. Btw thanks to [Mi460
 
 [Link to YouTube Channel][youtube]
 
-[Invite my Moderation Bot!][modbot]
-
 [Design][mjt] from [Alex Carpenter][ac]
 
 [mi460]: https://mi460.dev
