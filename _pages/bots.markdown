@@ -9,5 +9,5 @@ permalink: /bots/
 
 [MGC-Official Moderation Bot with Botghost.com][bot2link]
 
-[bot1link]: https://discord.com/api/oauth2/authorize?client_id=708505968652058675&permissions=2147352567&redirect_uri=https%3A%2F%2Fmrgamecub3.github.io%2Fbots%2F&scope=bot&response_type=code
+[bot1link]: https://discord.com/oauth2/authorize?client_id=708505968652058675&permissions=2147352567&scope=bot&response_type=code&redirect_uri=https%3A%2F%2Fmrgamecub3.github.io%2Fbots
 [bot2link]: https://discord.com/oauth2/authorize?client_id=708362362520076289&scope=bot
