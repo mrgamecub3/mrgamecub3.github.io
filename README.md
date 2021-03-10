@@ -1,4 +1,4 @@
-# [Discord Bot Dev][web]
+# [My Website][web]
 
 By [MrGameCub3][mgc] and [Mi460][mi460]
 
